@@ -3,7 +3,9 @@
 # Discord-RPC-Android
 Discord Rich Presence Library for Android.
 
-Idea from https://github.com/khanhduytran0/MRPC
+Inspiration from https://github.com/khanhduytran0/MRPC
+
+
 
 # How to install
 **Step 1:** Add the JitPack repository to your build file.
