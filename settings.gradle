@@ -1,0 +1,3 @@
+rootProject.name='RPC Test'
+include ':app'
+include ':discord-rpc-android'
